@@ -40,7 +40,8 @@ Main Features:
 
 Brightness ROI
 Using “Circle” ROI(s) brighness changes withing the ROI(s) can be measured.  
-![image alt](https://github.com/AliMomennezhad/Facelab/blob/main/roi%20blinking1.png)
+![image alt](https://github.com/AliMomennezhad/Facelab/blob/main/blink%20traces1.png)
+
 
 
 
@@ -48,6 +49,6 @@ Using “Circle” ROI(s) brighness changes withing the ROI(s) can be measured.
 
 Exclusion ROI:
 Using “Circle” or “Rectangular” ROIs desired segments within the ROIs can be excluded.
+![image alt](https://github.com/AliMomennezhad/Facelab/blob/main/roi%20blinking1.png)
 
-![image alt](https://github.com/AliMomennezhad/Facelab/blob/main/blink%20traces1.png)
 
