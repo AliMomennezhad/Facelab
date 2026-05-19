@@ -19,13 +19,21 @@ If your PC has GPU, you can uninstall torch and use pytorch for faster processin
 
 Main Features:
 •	Brightness ROI
+
 •	Exclusion ROI
+
 •	Inclusion ROI
+
 •	ROI Saving
+
 •	ROI Loading 
+
 •	Keypoint Training
+
 •	Keypoint fine tuning
+
 •	Frame Extraction
+
 •	Event Extraction
 
 
