@@ -17,5 +17,5 @@ If your PC has GPU, you can uninstall torch and use pytorch for faster processin
 
 
 
-![image alt] (https://github.com/AliMomennezhad/Facelab/blob/main/roi%20blinking1.png)
+![image alt](https://github.com/AliMomennezhad/Facelab/blob/main/roi%20blinking1.png)
 
