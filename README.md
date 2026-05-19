@@ -17,5 +17,5 @@ If your PC has GPU, you can uninstall torch and use pytorch for faster processin
 
 
 
-![Alt text](roi blinking1.png)
+roi blinking1.png
 
