@@ -4,12 +4,15 @@ Facelab GUI is for analyzing facial video recordings.
 1. Clone or download the repository to your PC.
 
 2. Create a virtual environment using Anaconda (Python 3.9 or above is required):
+
    conda create --name facelab python=3.9
 
 3. Install the package in editable mode:
+   
    pip install -e .
 
 4. Run the application:
+   
    python -m facelab
 
 
