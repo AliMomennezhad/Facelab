@@ -51,4 +51,9 @@ Exclusion ROI:
 Using “Circle” or “Rectangular” ROIs desired segments within the ROIs can be excluded.
 ![image alt](https://github.com/AliMomennezhad/Facelab/blob/main/roi%20blinking1.png)
 
+Inclusion ROI:
+Using “Mask out” ROI desired segments outside the ROI can be excluded.
+![image alt](https://github.com/AliMomennezhad/Facelab/blob/main/exclusion-inclusion%20roi.png)
+
+
 
