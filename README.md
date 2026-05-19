@@ -15,7 +15,7 @@ Facelab GUI is for analyzing facial video recordings.
 
 If your PC has GPU, you can uninstall torch and use pytorch for faster processing.
 
-
+------------------------------------------------------------------------------------
 
 Main Features:
 •	Brightness ROI
